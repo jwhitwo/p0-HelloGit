@@ -12,5 +12,4 @@ public class HelloGit {
         //outputs the string "Hello Git!" to the console
         System.out.println("Hello Git!");
     }
-    
 }
